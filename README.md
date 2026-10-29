@@ -193,6 +193,3 @@ Please include:
 For resource-usage reports, include measurements before and after starting AFK, how long the session ran, and the measurement tool used.
 
 Review logs before uploading and remove any private information.
-
-**Issues:** [ISSUE TRACKER URL]  
-**Source code:** [REPOSITORY URL]

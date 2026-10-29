@@ -1,0 +1,7 @@
+[2026-10-28T20:36:00.9944439Z[Africa/Casablanca]] [INFO] Started opening dump C:\Dev\ZeroRenderAFK\afk-memory.hprof at 2026-10-28T20:36:00.9680963Z[Africa/Casablanca]
+[2026-10-28T20:36:02.1300336Z[Africa/Casablanca]] [INFO] Detected compressed references, because with uncompressed 64-bit references the array at 0x704638a08 would overlap the array at 0x7046389b8
+[2026-10-28T20:36:03.9016487Z[Africa/Casablanca]] [INFO] Wrote threads call stacks to C:\Dev\ZeroRenderAFK\afk-memory.threads
+[2026-10-28T20:36:04.3133263Z[Africa/Casablanca]] [INFO] Heap C:\Dev\ZeroRenderAFK\afk-memory.hprof contains 5 736 452 objects
+[2026-10-28T20:36:23.6966552Z[Africa/Casablanca]] [INFO] The keep unreachable objects condition is set to false. This may come either from the preference or dump condition requirements.
+[2026-10-28T20:36:24.3554435Z[Africa/Casablanca]] [INFO] Removed 111 419 unreachable objects using 7 275 360 bytes
+[2026-10-28T20:37:02.5809543Z[Africa/Casablanca]] [INFO] Finished opening dump in 61,52 seconds (1m 1.5259088s) at 2026-10-28T20:37:02.4940051Z[Africa/Casablanca]

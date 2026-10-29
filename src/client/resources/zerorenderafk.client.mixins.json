@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "package": "com.ayoubela.zerorenderafk.client.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "MinecraftMixin",
+    "ClientChunkCacheMixin",
+    "ClientLevelMixin",
+    "ClientPacketListenerMixin",
+    "LevelExtractorMixin",
+    "SessionSearchTreesMixin",
+    "AntiAfkPlayerMixin",
+    "AntiAfkCorrectionMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
